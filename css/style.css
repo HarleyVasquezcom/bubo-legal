@@ -400,7 +400,7 @@ img {
   height: 500px;
   border-radius: 4px;
   overflow: hidden;
-  box-shadow: 20px 20px 60px rgba(0,0,0,0.5), 0 0 40px;
+  box-shadow: 20px 20px 60px rgba(0,0,0,0.5), 0 0 40px rgba(201,168,76,0.05);
 }
 
 .hero-image img {
